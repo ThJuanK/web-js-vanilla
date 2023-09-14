@@ -5,3 +5,5 @@ Me basé en demostrar el manejo del lenguaje, pero tambien, demostrar la capacid
 
 Para ejecutarlo, puede abrir una IDE y generar un servidor dedicado al archivo HTML.
 Por ejemplo, para VS code solo hay que abrir el repositorio, dar click derecho al archivo ```index.HTML``` y seleccionar "Open with live server" 
+
+O simplemento puede ingresar al host de [GitHub Pages](https://thjuank.github.io/web-js-vanilla/) para este repositorio.
